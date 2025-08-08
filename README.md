@@ -1,3 +1,3 @@
 # Vireon-Assistenza
 pagina per l'assistenza dell'app Vireon 
-contattateci all'email: vireon.assistenza@gmail.com
+cPer qualsiasi domanda, problema o suggerimento, scrivici a: vireon.assistenza@gmail.com
