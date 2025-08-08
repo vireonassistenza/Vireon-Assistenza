@@ -1,2 +1,2 @@
 # Vireon-Assistenza
-pagina per l'assistenza dell'app Viereon 
+pagina per l'assistenza dell'app Vireon 
